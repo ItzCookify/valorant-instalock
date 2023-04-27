@@ -1,6 +1,6 @@
 > idk why but windows defender think its a virus so just try to install it (without disabling the defender) if it doesnt work just disable realtime protection
 
-> :warning: **If the app is crashing after you put the region:** The cause is because valorant is not running. 
+> :warning: **If the app is crashing after you put the region:** The cause is because valorant is not running or the region is wrong
 # Valorant Instalocker
 This is a simple instalocker made by me
 
