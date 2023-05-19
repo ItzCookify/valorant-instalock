@@ -9,4 +9,4 @@ This is a simple instalocker made by me
 - shows you what side you are gonna be in agent select (Defending or attacking)
 
 ### Contact me
-you can message me on discord `ItzCookify#6969`
+you can message me on discord `ItzCookify#3066`
